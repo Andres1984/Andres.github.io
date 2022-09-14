@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T14:08:38.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="jTZyRJpRwVnFVg7htSV7" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T14:10:14.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="ZL8qWFAfnf6TYPL0sWL1" version="20.3.0" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6206.5" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,23 +90,26 @@
         <mxCell id="A7myt2TtvZUezb5Yi0X4-81" value="Precio" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1170" y="590" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A7myt2TtvZUezb5Yi0X4-86" value="Variables Categóricas" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="472" y="770" width="400" height="400" as="geometry" />
+        <mxCell id="A7myt2TtvZUezb5Yi0X4-86" value="Variables Categóricas" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="440" y="810" width="400" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="A7myt2TtvZUezb5Yi0X4-87" value="Actor 1" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="A7myt2TtvZUezb5Yi0X4-86" vertex="1">
+        <mxCell id="A7myt2TtvZUezb5Yi0X4-87" value="Rango Intercuartílico" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=#fff2cc;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#d6b656;" parent="A7myt2TtvZUezb5Yi0X4-86" vertex="1">
           <mxGeometry y="40" width="400" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="A7myt2TtvZUezb5Yi0X4-88" value="Phase 1" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="A7myt2TtvZUezb5Yi0X4-87" vertex="1">
+        <mxCell id="A7myt2TtvZUezb5Yi0X4-88" value="Phase 1" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#f8cecc;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#b85450;" parent="A7myt2TtvZUezb5Yi0X4-87" vertex="1">
           <mxGeometry x="40" width="120" height="120" as="geometry">
             <mxRectangle width="120" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A7myt2TtvZUezb5Yi0X4-89" value="Phase 2" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="A7myt2TtvZUezb5Yi0X4-87" vertex="1">
+        <mxCell id="ywroMQMRd0FOn1M8rlSK-32" value="Productos con &lt;br&gt;precio por debajo&lt;br&gt;del primer cuartil" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="A7myt2TtvZUezb5Yi0X4-88">
+          <mxGeometry y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A7myt2TtvZUezb5Yi0X4-89" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;Productos con&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;precio por debajo&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;del primer cuartil&lt;/span&gt;" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#e1d5e7;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#9673a6;" parent="A7myt2TtvZUezb5Yi0X4-87" vertex="1">
           <mxGeometry x="160" width="120" height="120" as="geometry">
             <mxRectangle width="120" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A7myt2TtvZUezb5Yi0X4-90" value="Phase 3" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" parent="A7myt2TtvZUezb5Yi0X4-87" vertex="1">
+        <mxCell id="A7myt2TtvZUezb5Yi0X4-90" value="Phase 3" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#d5e8d4;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#82b366;" parent="A7myt2TtvZUezb5Yi0X4-87" vertex="1">
           <mxGeometry x="280" width="120" height="120" as="geometry">
             <mxRectangle width="120" height="120" as="alternateBounds" />
           </mxGeometry>
