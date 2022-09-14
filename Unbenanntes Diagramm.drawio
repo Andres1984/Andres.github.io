@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T13:51:31.071Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="g-Ff6x8xtnxTY2AMZUSS" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T13:55:39.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="NHuPY-9fW90EDmRE92T1" version="20.3.0" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="A7myt2TtvZUezb5Yi0X4-78" value="Rural" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="130" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A7myt2TtvZUezb5Yi0X4-81" value="Precio" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="590" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
