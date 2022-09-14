@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T13:46:17.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="4Aeb_nKh_QWSAC_r3rXS" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T13:46:46.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="YJZJATnVJb-OyXYWOtPa" version="20.3.0" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -13,34 +13,10 @@
         <mxCell id="4" value="Office of &#xa;Workplace Solutions" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="302" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Office of Public Relations" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="542" y="455.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="Counsel Division" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="872" y="455.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8" value="Analysis &#xa;Division" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="625.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="Office of Global Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="705.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="10" value="Office of &#xa;Backtrack Analysis" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="795.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="Department of &#xa;Heuristic Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="885.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="12" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="975.5" width="200" height="60" as="geometry" />
+        <mxCell id="6" value="Grupo" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="450" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="2" target="3" edge="1">
-          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="22" y="265.5" as="sourcePoint" />
-            <mxPoint x="122" y="165.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="5" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
             <mxPoint x="122" y="165.5" as="targetPoint" />
@@ -58,10 +34,10 @@
             <mxPoint x="122" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" target="8" edge="1">
+        <mxCell id="34" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
-            <mxPoint x="122" y="165.5" as="targetPoint" />
+            <mxPoint x="382" y="625.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="552" y="555.5" />
             </Array>
